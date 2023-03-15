@@ -1,6 +1,5 @@
 ---
-title: Nicolo Russo
-role: Assistant Professor of Economics
+avatar_filename: headshot_square.jpg
 bio: ""
 interests: []
 social: []
@@ -15,7 +14,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Assistant Professor of Economics
 highlight_name: true
+title: Nicolo Russo
 first_name: Alice
 email: ""
 ---
